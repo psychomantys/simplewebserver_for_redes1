@@ -5,9 +5,29 @@
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+
+# Compiled Bins.
+a.out
+
+# Latex
+*.log
+*.aux
+*.nav
+*.out
+*.snm
+*.toc
+
+# Backup files
+*~
+.*.sw*
+.backups
+.backup
+
+# svn
+.svn
+

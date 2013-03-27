@@ -1,0 +1,10 @@
+
+#ifndef  config_h_INC
+#define  config_h_INC
+
+#define SWSR1_VERSION_MAJOR @SWSR1_VERSION_MAJOR@
+#define SWSR1_VERSION_MINOR @SWSR1_VERSION_MINOR@
+#define SWSR1_VERSION_MINOR_FIX @SWSR1_VERSION_MINOR_FIX@
+
+#endif   /* ----- #ifndef config.h_INC  ----- */
+
